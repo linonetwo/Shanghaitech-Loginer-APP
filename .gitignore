@@ -22,11 +22,18 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
+
+
+gradle/wrapper/gradle-wrapper.properties
+
 # Android/IJ
 #
+*.iml
 .idea
 .gradle
 local.properties
+gradle-wrapper.properties
+*.apk
 
 # node.js
 #
@@ -38,3 +45,10 @@ buck-out/
 \.buckd/
 android/app/libs
 android/keystores/debug.keystore
+
+# VSCode
+.vscode/
+
+
+android/gradle/wrapper/gradle-wrapper.properties
+.sync/
