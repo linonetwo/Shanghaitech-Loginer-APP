@@ -52,3 +52,4 @@ android/keystores/debug.keystore
 
 android/gradle/wrapper/gradle-wrapper.properties
 .sync/
+android/java_pid14072.hprof
